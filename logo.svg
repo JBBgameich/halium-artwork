@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="a">
+      <path stroke="#000" stroke-width=".03" d="M208.1 145.73l-.9-11.1 2.82 5.6.05-14.16-2.8-1.13 3.96-14.22 11.1-2.6 11.93 28.5-14.5 18.53z"/>
+    </clipPath>
+  </defs>
+  <text x="17.6" y="38.05" stroke-width=".26" style="line-height:1.25" font-size="10.58" letter-spacing="0" word-spacing="0" font-family="sans-serif">
+    <tspan x="17.6" y="38.05" font-size="16.93">IUM</tspan>
+  </text>
+  <g transform="translate(-25.917 -224.08)">
+    <ellipse cx="217.26" cy="131.29" fill="none" stroke="#0075d1" stroke-width=".74" rx="9.09" ry="18.78" transform="rotate(47.417)" clip-path="url(#a)"/>
+    <circle cx="62.85" cy="235.4" r="1.78" fill="#00607b"/>
+    <circle cx="93.71" cy="205.66" r="1.78" fill="#00607b" transform="translate(-55.74 56.577)"/>
+  </g>
+  <text x="1.42" y="23.31" stroke-width=".26" style="line-height:1.25" font-size="10.58" letter-spacing="0" word-spacing="0" font-family="sans-serif">
+    <tspan x="1.42" y="23.31" fill="#00b1b1" font-size="16.93">HAL</tspan>
+  </text>
+</svg>
